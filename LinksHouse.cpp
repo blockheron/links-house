@@ -361,7 +361,7 @@ int main( int argc, char* argv[]) {
 	// Open a window and create its OpenGL context
 	float screenW = 1400;
 	float screenH = 900;
-	window = glfwCreateWindow( screenW, screenH, "Assignment 4", NULL, NULL);
+	window = glfwCreateWindow( screenW, screenH, "Link's House - blockheron", NULL, NULL);
 	if( window == NULL ){
 		fprintf( stderr, "Failed to open GLFW window. If you have an Intel GPU, they are not 3.3 compatible. Try the 2.1 version of the tutorials.\n" );
 		getchar();
