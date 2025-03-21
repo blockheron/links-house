@@ -3,4 +3,4 @@ This source code was originally written for an assignment. It uses OpenGL and C+
 
 **Controls:** Use the up/down arrow keys to move forward and backwards. Use the left/right arrow keys to look left and right. Press ESC to close the application.
 
-**Acknowledgements:** [This camera tutorial was used as reference.](https://learnopengl.com/Getting-started/Camera)
+**Acknowledgements:** [This camera tutorial was used as reference.](https://learnopengl.com/Getting-started/Camera). The assets in the LinksHouse directory were supplied by my class and belong to Nintendo.
